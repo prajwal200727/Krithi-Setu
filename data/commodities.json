@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "slug": "arecanut",
+    "name_en": "Arecanut (Betelnut)",
+    "name_kn": "ಅಡಿಕೆ (Arecanut)",
+    "default_unit": "kg",
+    "agmarknet_name": "Arecanut(Betelnut/Supari)",
+    "varieties": ["Chali (Supari)", "Bette", "Koka", "Rashi", "Api"],
+    "icon": "Trees",
+    "category": "Commercial Plantation"
+  },
+  {
+    "id": 2,
+    "slug": "coconut",
+    "name_en": "Coconut & Tender Coconut",
+    "name_kn": "ತೆಂಗಿನಕಾಯಿ ಮತ್ತು ಎಳನೀರು",
+    "default_unit": "piece",
+    "agmarknet_name": "Coconut",
+    "varieties": ["Tender Coconut (Bonda)", "Mature Coconut (Naliker)", "Copra (Dried)"],
+    "icon": "Palmtree",
+    "category": "Plantation"
+  },
+  {
+    "id": 3,
+    "slug": "cashew",
+    "name_en": "Cashew Raw Nut",
+    "name_kn": "ಗೋಡಂಬಿ ಕಚ್ಚಾ ಬೀಜ",
+    "default_unit": "kg",
+    "agmarknet_name": "Cashewnuts",
+    "varieties": ["Raw with shell (Local Gola)", "Vengurla-4", "Ullal-1"],
+    "icon": "Nut",
+    "category": "Commercial Plantation"
+  },
+  {
+    "id": 4,
+    "slug": "pepper",
+    "name_en": "Black Pepper",
+    "name_kn": "ಕರಿಮೆಣಸು (ಕಾಳುಮೆಣಸು)",
+    "default_unit": "kg",
+    "agmarknet_name": "Black Pepper",
+    "varieties": ["Black Garbled (Panniyur-1)", "Ungarbled", "White Pepper"],
+    "icon": "Sparkles",
+    "category": "Spices"
+  },
+  {
+    "id": 5,
+    "slug": "rubber",
+    "name_en": "Natural Rubber Sheet",
+    "name_kn": "ರಬ್ಬರ್ ಹಾಳೆ",
+    "default_unit": "kg",
+    "agmarknet_name": "Rubber",
+    "varieties": ["RSS-4 Grade", "RSS-5 Grade", "Scrap Latex"],
+    "icon": "Layers",
+    "category": "Commercial Plantation"
+  },
+  {
+    "id": 6,
+    "slug": "banana",
+    "name_en": "Banana",
+    "name_kn": "ಬಾಳೆಹಣ್ಣು (Banana)",
+    "default_unit": "kg",
+    "agmarknet_name": "Banana",
+    "varieties": ["Elakki / Yelakki", "Robusta / Cavendish", "Nendran (Plantain)", "Pachanadan"],
+    "icon": "Banana",
+    "category": "Fruits"
+  },
+  {
+    "id": 7,
+    "slug": "jackfruit",
+    "name_en": "Jackfruit",
+    "name_kn": "ಹಲಸಿನ ಹಣ್ಣು (Jackfruit)",
+    "default_unit": "piece",
+    "agmarknet_name": "Jackfruit",
+    "varieties": ["Haladi Tolu (Firm)", "Barke (Crispy)", "Chandra Bakke (Red flesh)"],
+    "icon": "Apple",
+    "category": "Fruits"
+  },
+  {
+    "id": 8,
+    "slug": "brinjal",
+    "name_en": "Mattu Gulla & Brinjal",
+    "name_kn": "ಮಟ್ಟುಗುಳ್ಳ ಬದನೆಕಾಯಿ",
+    "default_unit": "kg",
+    "agmarknet_name": "Brinjal",
+    "varieties": ["Mattu Gulla (GI Tagged)", "Green Long Coastal", "Purple Round"],
+    "icon": "Eggplant",
+    "category": "Vegetables"
+  },
+  {
+    "id": 9,
+    "slug": "ladies_finger",
+    "name_en": "Ladies Finger (Bhendi)",
+    "name_kn": "ಬೆಂಡೆಕಾಯಿ (Bhendi)",
+    "default_unit": "kg",
+    "agmarknet_name": "Bhindi(Ladies Finger)",
+    "varieties": ["Local Coastal Green", "Arka Anamika"],
+    "icon": "Sprout",
+    "category": "Vegetables"
+  },
+  {
+    "id": 10,
+    "slug": "cucumber",
+    "name_en": "Mangalore Cucumber",
+    "name_kn": "ಮಂಗಳೂರು ಸೌತೆಕಾಯಿ",
+    "default_unit": "kg",
+    "agmarknet_name": "Cucumber(Kheera)",
+    "varieties": ["Malabar Sambar Cucumber", "Salad Green Cucumber"],
+    "icon": "Salad",
+    "category": "Vegetables"
+  },
+  {
+    "id": 11,
+    "slug": "pineapple",
+    "name_en": "Pineapple",
+    "name_kn": "ಅನಾನಸ್ (Pineapple)",
+    "default_unit": "kg",
+    "agmarknet_name": "Pineapple",
+    "varieties": ["Queen (Vazhakulam type)", "Kew Giant"],
+    "icon": "Citrus",
+    "category": "Fruits"
+  },
+  {
+    "id": 12,
+    "slug": "mango",
+    "name_en": "Mango",
+    "name_kn": "ಮಾವು (Mango)",
+    "default_unit": "kg",
+    "agmarknet_name": "Mango",
+    "varieties": ["Mundappa (Coastal Pride)", "Alphonso (Hapuz)", "Neelam"],
+    "icon": "Sun",
+    "category": "Fruits"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "taluk": "Puttur",
+    "district": "Dakshina Kannada",
+    "taluk_kn": "ಪುತ್ತೂರು",
+    "nearest_market": "Puttur",
+    "distance_km": 0
+  },
+  {
+    "taluk": "Mangaluru",
+    "district": "Dakshina Kannada",
+    "taluk_kn": "ಮಂಗಳೂರು",
+    "nearest_market": "Mangaluru",
+    "distance_km": 0
+  },
+  {
+    "taluk": "Sullia",
+    "district": "Dakshina Kannada",
+    "taluk_kn": "ಸುಳ್ಯ",
+    "nearest_market": "Sullia",
+    "distance_km": 0
+  },
+  {
+    "taluk": "Bantwal",
+    "district": "Dakshina Kannada",
+    "taluk_kn": "ಬಂಟ್ವಾಳ",
+    "nearest_market": "Bantwal",
+    "distance_km": 0
+  },
+  {
+    "taluk": "Belthangady",
+    "district": "Dakshina Kannada",
+    "taluk_kn": "ಬೆಳ್ತಂಗಡಿ",
+    "nearest_market": "Belthangady",
+    "distance_km": 0
+  },
+  {
+    "taluk": "Moodbidri",
+    "district": "Dakshina Kannada",
+    "taluk_kn": "ಮೂಡುಬಿದಿರೆ",
+    "nearest_market": "Moodbidri",
+    "distance_km": 0
+  },
+  {
+    "taluk": "Mulki",
+    "district": "Dakshina Kannada",
+    "taluk_kn": "ಮುಲ್ಕಿ",
+    "nearest_market": "Mangaluru",
+    "distance_km": 28
+  },
+  {
+    "taluk": "Kadaba",
+    "district": "Dakshina Kannada",
+    "taluk_kn": "ಕಡಬ",
+    "nearest_market": "Puttur",
+    "distance_km": 30
+  },
+  {
+    "taluk": "Udupi",
+    "district": "Udupi",
+    "taluk_kn": "ಉಡುಪಿ",
+    "nearest_market": "Udupi",
+    "distance_km": 0
+  },
+  {
+    "taluk": "Kundapura",
+    "district": "Udupi",
+    "taluk_kn": "ಕುಂದಾಪುರ",
+    "nearest_market": "Kundapura",
+    "distance_km": 0
+  },
+  {
+    "taluk": "Karkala",
+    "district": "Udupi",
+    "taluk_kn": "ಕಾರ್ಕಳ",
+    "nearest_market": "Karkala",
+    "distance_km": 0
+  },
+  {
+    "taluk": "Kapu",
+    "district": "Udupi",
+    "taluk_kn": "ಕಾಪು",
+    "nearest_market": "Udupi",
+    "distance_km": 15
+  },
+  {
+    "taluk": "Byndoor",
+    "district": "Udupi",
+    "taluk_kn": "ಬೈಂದೂರು",
+    "nearest_market": "Kundapura",
+    "distance_km": 30
+  },
+  {
+    "taluk": "Brahmavara",
+    "district": "Udupi",
+    "taluk_kn": "ಬ್ರಹ್ಮಾವರ",
+    "nearest_market": "Udupi",
+    "distance_km": 14
+  },
+  {
+    "taluk": "Hebri",
+    "district": "Udupi",
+    "taluk_kn": "ಹೆಬ್ರಿ",
+    "nearest_market": "Karkala",
+    "distance_km": 22
+  }
+]

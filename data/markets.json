@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Puttur",
+    "name_kn": "ಪುತ್ತೂರು",
+    "district": "Dakshina Kannada",
+    "state": "Karnataka",
+    "lat": 12.7667,
+    "lng": 75.2000,
+    "is_apmc": true,
+    "major_crops": ["arecanut", "cashew", "pepper", "rubber"]
+  },
+  {
+    "id": 2,
+    "name": "Mangaluru",
+    "name_kn": "ಮಂಗಳೂರು",
+    "district": "Dakshina Kannada",
+    "state": "Karnataka",
+    "lat": 12.9141,
+    "lng": 74.8560,
+    "is_apmc": true,
+    "major_crops": ["coconut", "pepper", "banana", "vegetables", "mango"]
+  },
+  {
+    "id": 3,
+    "name": "Sullia",
+    "name_kn": "ಸುಳ್ಯ",
+    "district": "Dakshina Kannada",
+    "state": "Karnataka",
+    "lat": 12.5564,
+    "lng": 75.3892,
+    "is_apmc": true,
+    "major_crops": ["rubber", "arecanut", "pepper"]
+  },
+  {
+    "id": 4,
+    "name": "Bantwal",
+    "name_kn": "ಬಂಟ್ವಾಳ",
+    "district": "Dakshina Kannada",
+    "state": "Karnataka",
+    "lat": 12.8906,
+    "lng": 75.0345,
+    "is_apmc": true,
+    "major_crops": ["arecanut", "coconut", "banana"]
+  },
+  {
+    "id": 5,
+    "name": "Belthangady",
+    "name_kn": "ಬೆಳ್ತಂಗಡಿ",
+    "district": "Dakshina Kannada",
+    "state": "Karnataka",
+    "lat": 13.0044,
+    "lng": 75.2536,
+    "is_apmc": true,
+    "major_crops": ["rubber", "arecanut", "cashew"]
+  },
+  {
+    "id": 6,
+    "name": "Moodbidri",
+    "name_kn": "ಮೂಡುಬಿದಿರೆ",
+    "district": "Dakshina Kannada",
+    "state": "Karnataka",
+    "lat": 13.0690,
+    "lng": 74.9961,
+    "is_apmc": false,
+    "major_crops": ["cashew", "pineapple", "coconut"]
+  },
+  {
+    "id": 7,
+    "name": "Udupi",
+    "name_kn": "ಉಡುಪಿ",
+    "district": "Udupi",
+    "state": "Karnataka",
+    "lat": 13.3409,
+    "lng": 74.7421,
+    "is_apmc": true,
+    "major_crops": ["brinjal", "coconut", "banana", "mango", "cucumber"]
+  },
+  {
+    "id": 8,
+    "name": "Kundapura",
+    "name_kn": "ಕುಂದಾಪುರ",
+    "district": "Udupi",
+    "state": "Karnataka",
+    "lat": 13.6268,
+    "lng": 74.6917,
+    "is_apmc": true,
+    "major_crops": ["cashew", "coconut", "arecanut", "jackfruit"]
+  },
+  {
+    "id": 9,
+    "name": "Karkala",
+    "name_kn": "ಕಾರ್ಕಳ",
+    "district": "Udupi",
+    "state": "Karnataka",
+    "lat": 13.2144,
+    "lng": 74.9981,
+    "is_apmc": true,
+    "major_crops": ["arecanut", "pepper", "cashew"]
+  },
+  {
+    "id": 10,
+    "name": "Kapu",
+    "name_kn": "ಕಾಪು",
+    "district": "Udupi",
+    "state": "Karnataka",
+    "lat": 13.2269,
+    "lng": 74.7408,
+    "is_apmc": false,
+    "major_crops": ["brinjal", "vegetables", "coconut"]
+  },
+  {
+    "id": 11,
+    "name": "Byndoor",
+    "name_kn": "ಬೈಂದೂರು",
+    "district": "Udupi",
+    "state": "Karnataka",
+    "lat": 13.8698,
+    "lng": 74.6291,
+    "is_apmc": false,
+    "major_crops": ["cashew", "coconut", "jackfruit"]
+  }
+]

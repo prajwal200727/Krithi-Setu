@@ -1,0 +1,30 @@
+[
+  {
+    "id": "off-001",
+    "listing_id": "list-001",
+    "buyer_id": "b2000000-0000-0000-0000-000000000001",
+    "buyer_name": "Praveen Pai",
+    "buyer_phone": "+91 90000 00002",
+    "buyer_business": "Pai Agro Traders & Commission Agents",
+    "offered_price": 475,
+    "quantity": 250,
+    "note": "We can lift all 250kg directly from your farm in Paduvannoor tomorrow morning. Weighing on site.",
+    "status": "accepted",
+    "created_at": "2026-10-18T15:30:00Z",
+    "updated_at": "2026-10-18T18:00:00Z"
+  },
+  {
+    "id": "off-002",
+    "listing_id": "list-002",
+    "buyer_id": "b2000000-0000-0000-0000-000000000002",
+    "buyer_name": "Rajesh Rao",
+    "buyer_phone": "+91 98455 66778",
+    "buyer_business": "Coastal Heritage Hospitality Group",
+    "offered_price": 50,
+    "quantity": 100,
+    "note": "For our Udupi and Manipal hotel kitchens. Please pack in clean crates.",
+    "status": "pending",
+    "created_at": "2026-10-19T08:15:00Z",
+    "updated_at": "2026-10-19T08:15:00Z"
+  }
+]

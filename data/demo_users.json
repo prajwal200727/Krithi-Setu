@@ -1,0 +1,77 @@
+[
+  {
+    "id": "f1000000-0000-0000-0000-000000000001",
+    "role": "farmer",
+    "full_name": "Ramesh Gowda",
+    "phone": "+91 90000 00001",
+    "district": "Dakshina Kannada",
+    "taluk": "Puttur",
+    "village": "Paduvannoor",
+    "language": "kn",
+    "avatar": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&q=80&w=256",
+    "bio": "Marginal arecanut and spice farmer with 2.5 acres in Puttur."
+  },
+  {
+    "id": "f1000000-0000-0000-0000-000000000002",
+    "role": "farmer",
+    "full_name": "Vasantha Poojary",
+    "phone": "+91 98450 11223",
+    "district": "Udupi",
+    "taluk": "Kapu",
+    "village": "Mattu Village",
+    "language": "kn",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=256",
+    "bio": "Traditional Mattu Gulla brinjal and coconut grower."
+  },
+  {
+    "id": "f1000000-0000-0000-0000-000000000003",
+    "role": "farmer",
+    "full_name": "Shekhara Shetty",
+    "phone": "+91 99010 33445",
+    "district": "Dakshina Kannada",
+    "taluk": "Sullia",
+    "village": "Guthigar",
+    "language": "kn",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=256",
+    "bio": "Rubber and arecanut grower in foothills of Western Ghats."
+  },
+  {
+    "id": "b2000000-0000-0000-0000-000000000001",
+    "role": "buyer",
+    "full_name": "Praveen Pai",
+    "phone": "+91 90000 00002",
+    "district": "Dakshina Kannada",
+    "taluk": "Mangaluru",
+    "village": "Bunder, Mangaluru",
+    "language": "en",
+    "business_name": "Pai Agro Traders & Commission Agents",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=256",
+    "bio": "Commodity aggregator supplying to retail networks across Karnataka."
+  },
+  {
+    "id": "b2000000-0000-0000-0000-000000000002",
+    "role": "buyer",
+    "full_name": "Rajesh Rao",
+    "phone": "+91 98455 66778",
+    "district": "Udupi",
+    "taluk": "Udupi",
+    "village": "Kalsanka",
+    "language": "en",
+    "business_name": "Coastal Heritage Hospitality Group",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=256",
+    "bio": "Bulk procurement manager for 6 hotels in Udupi & Mangaluru."
+  },
+  {
+    "id": "b2000000-0000-0000-0000-000000000003",
+    "role": "buyer",
+    "full_name": "Anita Fernandes",
+    "phone": "+91 94480 88990",
+    "district": "Dakshina Kannada",
+    "taluk": "Bantwal",
+    "village": "B.C. Road",
+    "language": "en",
+    "business_name": "Karavali Spices & Exports",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=256",
+    "bio": "Exporter and processor of black pepper, cashew and dry spices."
+  }
+]
